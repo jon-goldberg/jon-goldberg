@@ -6,7 +6,7 @@ This is a user guide so you can learn more about my personality, how to interpre
 ## Who am I ?
 Architect - https://www.16personalities.com/intj-personality
 
-* I believe in the servant-leader model as well as [extreme ownership](https://www.leaneast.com/extreme-ownership). As such when things go wrong I look at what I can do differently.
+* I believe in the servant-leader model as well as [extreme ownership](https://www.leaneast.com/extreme-ownership). As such when things go wrong I look at what I can do differently. I also try to empower my team and give them federated ownership.
 * Emotionally, I never get too high, or too low. A strength is I never have 'hair-on-fire' moments.
 * I value communication more than most technical leaders. It something I continue to work to refine for myself and promote among my team.
 * I have a tendency to organize things whether it be documentation or work. I have systems to help me manage my day such as using timeblocks as reminders/to-do's so I stay on top of things.
@@ -18,6 +18,8 @@ Architect - https://www.16personalities.com/intj-personality
 >  The why, how, and what of communication. What methods do you use to communicate, how do they change based on context or the person/group, and how often is each used? Example: “I always use the phone for any important interaction with my family but never with friends or co-workers.” Get specific about your strengths and challenges. 
 
 I like documentation and notes to refer to. I work asyncronously where possible but for complex topics that require multiple perspectives prefer meeting. This is to reduce context switching as studies show it takes up to 15 mins to get reacquainted with a topic. Slack is great for items that don't need a detailed response and I am getting better at using reminders/tasks to come back to more detailed items when I have time.
+
+At work I highly value understanding and sharing the context behind requests. I also try not to be too prescriptive and instead describe what I am looking for as a result.
 
 ### Authority Figures
 >  Explain your approach to dealing with authority and how it will be received depending on the person (e.g., mom, police, boss, etc.). 
@@ -51,12 +53,12 @@ Doing->Reading->Visually->Listening and Reflecting.
 ### Labels and Phrases That Define You
 >  If you could only use one word or a simple phrase to label yourself, what would they be? Multiple labels or phrases are encouraged (e.g. religious affiliation, how you analyze your thoughts, movements, or philosophies you believe in).
 
-Driven
-Innovative
-Collaborative
-Empathetic
-Continuous learner
-Stoic
+* Driven
+* Innovative
+* Collaborative
+* Empathetic
+* Continuous learner
+* Stoic
 
 ### How I Express Myself
 
@@ -86,7 +88,9 @@ TODO
 * Offhours - best way to reach me is via text @ 860-944-9466
 
 ## How to Make Me Feel or Act 
+
 ## Goals and Areas of Growth	
+
 * I come from a non-traditional data and analytics background. I studied Philosophy in college and got a data and analytics job for my first role out of college. Since then I've continued to develop my skillset on the job as well as by reading books on fundamentals/best practices and getting my masters in Business Analytics.
 
 ## Things I Like to Do and Why	
@@ -94,7 +98,9 @@ TODO
 * I am a continual learner and enjoy diving into new technologies or domains whether it be in the data/analytics space or on other topics like communication and leadership.
 * Outside of work I love rock climbing, reading, and spending time with my family.
 * I type too fast and make spelling/grammatical mistakes where there isn't a native spell checker. I'm working on it. 😁
+
 ## When Trouble Occurs	
+
 I try to understand the background on the issue, urgency(does it really need to be done today?), and options to move forward. 
 
 ## Special Notes	
